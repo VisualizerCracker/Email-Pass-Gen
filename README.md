@@ -1,7 +1,7 @@
 # Email-Pass-Gen
 # About.
 
-**This is an Email/Pass Generator to execute the file you need to have python downloaded the latest version and the pip's installed.
+*This is an Email/Pass Generator to execute the file you need to have python downloaded the latest version and the pip's installed.
 
 # **Example**:
 
@@ -49,3 +49,17 @@ pass_gen()
 >Installation
 >pip install string
 >pip install random
+
+
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+    ```ruby
+      puts "Hello World"
+    ```
+
+</p>
+</details>
