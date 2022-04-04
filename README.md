@@ -8,7 +8,8 @@
 -*This is the Email Generator.*
 
 
-```import random
+~~~
+import random
 import string
 
 def email_gen():
@@ -23,14 +24,16 @@ def email_gen():
         email_generated = "".join(random.choices(letters_list_to_str, k=chars_after_at)) + email_format
         print(email_generated)
         
-email_gen()```
+email_gen()
+~~~
 
 
 -*This is the Pass Generator*
 
 
 
-```import random
+~~~
+import random
 import string
 
 def pass_gen():
@@ -45,11 +48,12 @@ def pass_gen():
         pass_generated = "".join(random.choices(letters_list_to_str, k=chars_after_at)) + pass_format
         print(pass_generated)
 
-pass_gen()```
+pass_gen()
+~~~
     
 
 
 
 >Installation
->pip install string
->pip install random
+### pip install string
+### pip install random
