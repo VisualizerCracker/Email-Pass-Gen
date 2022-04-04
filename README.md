@@ -28,7 +28,7 @@ email_gen()
 ~~~
 
 
--*This is the Pass Generator*
+-*This is the Pass Generator.*
 
 
 
@@ -55,5 +55,7 @@ pass_gen()
 
 
 >Installation
+~~~
 pip install string
 pip install random
+~~~
