@@ -6,8 +6,14 @@
 # **Example**:
 
 -*This is the Email Generator.*
-~~~
-import random
+
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+    ```import random
 import string
 
 def email_gen():
@@ -23,12 +29,22 @@ def email_gen():
         print(email_generated)
         
 email_gen()
-~~~
+    ```
+
+</p>
+</details>
+
+
 
 -*This is the Pass Generator*
 
-~~~
-import random
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+    ```import random
 import string
 
 def pass_gen():
@@ -44,22 +60,11 @@ def pass_gen():
         print(pass_generated)
 
 pass_gen()
-~~~
-
->Installation
->pip install string
->pip install random
-
-
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### We can hide anything, even code!
-
-    ```ruby
-      puts "Hello World"
     ```
 
 </p>
 </details>
+
+>Installation
+>pip install string
+>pip install random
