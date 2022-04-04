@@ -55,5 +55,5 @@ pass_gen()
 
 
 >Installation
-### pip install string
-### pip install random
+pip install string
+pip install random
