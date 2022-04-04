@@ -8,12 +8,7 @@
 -*This is the Email Generator.*
 
 
-<details><summary>CLICK ME</summary>
-<p>
-
-#### We can hide anything, even code!
-
-    ```import random
+```import random
 import string
 
 def email_gen():
@@ -29,22 +24,13 @@ def email_gen():
         print(email_generated)
         
 email_gen()```
-    
-
-</p>
-</details>
-
 
 
 -*This is the Pass Generator*
 
 
-<details><summary>CLICK ME</summary>
-<p>
 
-#### We can hide anything, even code!
-
-    ```import random
+```import random
 import string
 
 def pass_gen():
@@ -62,8 +48,7 @@ def pass_gen():
 pass_gen()```
     
 
-</p>
-</details>
+
 
 >Installation
 >pip install string
