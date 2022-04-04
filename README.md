@@ -28,8 +28,8 @@ def email_gen():
         email_generated = "".join(random.choices(letters_list_to_str, k=chars_after_at)) + email_format
         print(email_generated)
         
-email_gen()
-    ```
+email_gen()```
+    
 
 </p>
 </details>
@@ -59,8 +59,8 @@ def pass_gen():
         pass_generated = "".join(random.choices(letters_list_to_str, k=chars_after_at)) + pass_format
         print(pass_generated)
 
-pass_gen()
-    ```
+pass_gen()```
+    
 
 </p>
 </details>
